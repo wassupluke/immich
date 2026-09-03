@@ -32,7 +32,7 @@
     "@extism/js-pdk": "^1.1.1",
     "@immich/sdk": "workspace:*",
     "@types/node": "^24.13.2",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.2",
     "tsc-alias": "^1.8.16",
     "typescript": "^6.0.0"
   },
