@@ -15,7 +15,7 @@
     "@extism/js-pdk": "^1.0.1",
     "@immich/sdk": "workspace:*",
     "@immich/plugin-sdk": "workspace:*",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.2",
     "typescript": "^6.0.0"
   }
 }
